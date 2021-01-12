@@ -1,0 +1,22 @@
+{
+  "name": "Basic PWA Integration",
+  "short_name": "PWA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e96e35",
+  "theme_color": "blue",
+  "scope": ".",
+  "description": "PWA Integration.",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
